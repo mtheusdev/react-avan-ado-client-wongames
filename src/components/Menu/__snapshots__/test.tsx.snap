@@ -1,11 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Heading /> should render the heading 1`] = `
+exports[`<Menu /> should render the heading 1`] = `
 <main
   class=""
 >
   <h1>
-    Heading
+    Menu
   </h1>
 </main>
 `;
